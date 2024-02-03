@@ -1,0 +1,16 @@
+.summary{
+    margin-left: 400px;
+    margin-top: 50px;
+    background-color: azure;
+    width: 600px;
+    border-radius: 20px;
+}
+.summary p{
+    margin-left: 70px;
+    margin-right: 100px;
+    margin-top: 10px;
+
+}
+.summary h3{
+    text-align: center;
+}

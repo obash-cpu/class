@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    width: 1000px;
+    margin-left: 150px;
+    margin-right: 50px;
+}
+.container img{
+    border-radius: 90px;
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 60px;
+}
+hr{
+    width: 100px;
+    height: 1px;
+}
+a{
+    font-size: 20px;
+}
+.container p{
+    font-style: oblique;
+}
