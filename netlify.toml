@@ -1,3 +1,8 @@
 [build]
   command = "npm run build"  # Specify the build command for your project
-  publish = "build"          # Specify the directory to publish (output of the build)
+  publish = "build/"
+
+[dev]  
+  # Set the development server command and port
+  command = "npm start"
+  port = 3000      
